@@ -1,11 +1,19 @@
 # Card Puzzle
+''' You are given 5 cards from a  deck, and return one. Then, you give your four cards to your code in a 
+optimal order; your code must guess the 5th card.'''
+
+# Author : mahesh gaikwad
+# www.concretesteelbond.com
+
+# Preparing Card Deck
 num = ["A",2,3,4,5,6,7,8,9,10,"J","Q","K"]
 c_type = ["C","D","H","S"]
 all_cards = []
 for t_each in c_type:
     for n_each in num:
         all_cards.append((t_each,n_each))
-#print(all_cards)     
+#print(all_cards)   
+####
 first_card = eval(input())
 second_card = eval(input())
 third_card = eval(input())
