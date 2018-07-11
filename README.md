@@ -10,3 +10,6 @@ to a schedule that lists when exactly each celebrity is going to attend the part
 to get as many pictures with celebrities as possible to improve your social standing. This
 means you wish to go for the hour when you get to hob-nob with the maximum number of
 celebrities and get selfies with each of them.
+
+3. You are given 5 cards from a  deck, and return one. Then, you give your four cards to your code in a 
+optimal order; your code must guess the 5th card.
